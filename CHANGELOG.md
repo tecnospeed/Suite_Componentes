@@ -1,6 +1,7 @@
 ﻿## [1.1.1.89]
 
-* Corre&ccedil;&otilde;es e melhorias diversos.
+* Correções
+  DSP4G-1186 - Aumentar o cache (local) da api para horas e adicionar o cache em rotas faltantes
 
 ## [1.1.1.85]
 
