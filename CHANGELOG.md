@@ -1,4 +1,10 @@
-﻿## [2.1.2.93]
+﻿## [2.1.3.94]
+
+**Correções**
+
+- DSML-913 - Correção do erro ao tentar baixar instaladores
+
+## [2.1.2.93]
 
 **Novidades**
 
@@ -16,6 +22,7 @@ DSP4G-408 - Versão do gerenciador e postar no tspm realease interna
 ## [1.1.1.84]
 
 DSP4G-408 - Versão do gerenciador e postar no tspm realease interna
+
 
 
 
