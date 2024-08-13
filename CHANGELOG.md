@@ -1,4 +1,10 @@
-﻿## [2.1.3.98]
+﻿## [2.1.4.100]
+
+**Novidade**
+
+* DSP4G-1590 - adicionado componente NFCom ao auto updater suite de componentes e disponibilizado o metodo AtualizarVersao no componente
+
+## [2.1.3.98]
 
 * Corre&ccedil;&otilde;es e melhorias diversos.
 
@@ -26,6 +32,7 @@ DSP4G-408 - Versão do gerenciador e postar no tspm realease interna
 ## [1.1.1.84]
 
 DSP4G-408 - Versão do gerenciador e postar no tspm realease interna
+
 
 
 
