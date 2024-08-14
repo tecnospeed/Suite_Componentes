@@ -1,9 +1,5 @@
 ﻿## [2.1.4.101]
 
-* Corre&ccedil;&otilde;es e melhorias diversos.
-
-## [2.1.4.100]
-
 **Novidade**
 
 * DSP4G-1590 - adicionado componente NFCom ao auto updater suite de componentes e disponibilizado o metodo AtualizarVersao no componente
