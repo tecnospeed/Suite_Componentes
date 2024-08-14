@@ -1,4 +1,8 @@
-﻿## [2.1.4.100]
+﻿## [2.1.4.101]
+
+* Corre&ccedil;&otilde;es e melhorias diversos.
+
+## [2.1.4.100]
 
 **Novidade**
 
@@ -32,6 +36,7 @@ DSP4G-408 - Versão do gerenciador e postar no tspm realease interna
 ## [1.1.1.84]
 
 DSP4G-408 - Versão do gerenciador e postar no tspm realease interna
+
 
 
 
